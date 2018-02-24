@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Write by Tahnasib Gafarov. 
+https://github.com/thmsbgfrv
+*/
+
 //User Can Modifie This Part For Modifie Results like board size and etc
 #define LENGTH 8 //board size (LENGTH x LENGTH)
 #define printMode 1 //if 1 means print  results  if 0 show just totalnumber of results
